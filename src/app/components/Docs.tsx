@@ -4,6 +4,9 @@ import CustomHeader from "../pages/components/CustomHeader";
 import SenderBox from "../pages/components/SenderBox";
 import TextView from "../pages/components/TextView";
 import FileComponent from "./Files";
+import TransferDoc from "../pages/components/TransferDoc";
+import LookUsers from "../pages/components/LookUsers";
+import CommentComp from "../pages/components/CommentComp";
 const Docs = ({postData}:any) => {
 
   return (
@@ -13,6 +16,9 @@ const Docs = ({postData}:any) => {
         <SenderBox data={postData}/>
         <TextView data={postData}/>
         <FileComponent data={postData}/>
+        <TransferDoc data={postData}/>
+        <LookUsers data={postData}/>
+        <CommentComp data={postData}/>
     </Box>
   );
 };

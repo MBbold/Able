@@ -5,7 +5,7 @@ const SenderBox = ({data}: any) => {
   return (
     <>
       {data.senderName ? (
-        <Box sx={{ display: "flex", alignItems: "center", px: 2, height: 35 }}>
+        <Box sx={{ display: "flex", alignItems: "center", px: 2, height: 30, mb:-2 }}>
           <Typography sx={{fontSize:11, color:"#5c88cd"}}>{data.senderName}</Typography>
           <TurnRightIcon sx={{ p:0.5, color:"#5c88cd", rotate:"90deg"}}/>
         </Box>

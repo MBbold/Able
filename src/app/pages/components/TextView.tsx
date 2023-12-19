@@ -14,7 +14,7 @@ const TextView = ({ data }: any) => {
     >
      <TextReadMore data={data.title}/>
       <Box sx={{ display: "flex", flexDirection: "row", gap: 1 }}>
-        {data.groupName.map((el: any) => {
+        {data.groupName.map((el: any, index:number) => {
           return (
             <Typography
               sx={{
@@ -23,7 +23,7 @@ const TextView = ({ data }: any) => {
                 borderRadius: 1,
                 fontSize: 11,
               }}
-              key={el.index}
+              key={index}
             >
               {el}
             </Typography>

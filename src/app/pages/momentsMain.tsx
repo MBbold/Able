@@ -1,7 +1,6 @@
-import { Box, Divider, Typography } from "@mui/material";
-import Meeting from "../components/meeting";
-import Public from "../components/public";
+import { Box } from "@mui/material";
 import Docs from "../components/Docs";
+import Meeting from "../components/meeting";
 import datas from "../data/data.json";
 
 const MomentsMain = () => {
@@ -17,9 +16,9 @@ const MomentsMain = () => {
         gap: 2,
       }}
     >
-      {datas.datas.map((postData)=>{
+      {datas.datas.map((postData, index)=>{
         return(
-            postData.pro === "docs" ? <Docs postData={postData}/> : null
+            postData.pro === "docs" ? <Docs key={index} postData={postData}/> : null
         )
       })}
       

@@ -1,6 +1,7 @@
 import { Box, Typography } from "@mui/material";
-
+import DetailActionTitle from "../function/DetailActionTitle"
 const Details = ({data}: any) => {
+  const actionTitle = DetailActionTitle(data)
   return (
     <Box
       sx={{
@@ -28,10 +29,7 @@ const Details = ({data}: any) => {
           -
         </Typography>
         <Typography sx={{ fontSize: 13, color: "#d26850" }}>
-          {data.actionBar.title == "cardClose" &&
-          data.module == "complain"
-            ? "Өргөдлийг хаалаа"
-            : "Одоогоор юм алга"}
+          {actionTitle}
         </Typography>
       </Box>
       <Box
@@ -43,8 +41,8 @@ const Details = ({data}: any) => {
           flex: "auto",
         }}
       >
-        <Typography sx={{ fontSize: 12, color: "#d26850" }}>Өчигдөр</Typography>
-        <Typography sx={{ fontSize: 12, color: "#d26850" }}>13:54</Typography>
+        <Typography sx={{ fontSize: 12, color: "#d26850" }}>{data.actionBar.date}</Typography>
+        {/* <Typography sx={{ fontSize: 12, color: "#d26850" }}>13:54</Typography> */}
       </Box>
     </Box>
   );

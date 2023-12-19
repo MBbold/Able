@@ -1,410 +1,486 @@
 {
-    "datas": [
-        {
-            "actionBar": {
-                "title": "cardClose",
-                "date": "16 цаг",
-                "actionFullDate": "70/01/20 - 23:45",
-                "actionAuthorInfo": {
-                    "id": 2426612,
-                    "system_name": "Ч.Хонгор",
-                    "app_name": "Мэдээллийн Технологийн Хэлтсийн захирал",
-                    "com_id": 2,
-                    "dep_id": 3384,
-                    "workerType": 1,
-                    "moderator": 0,
-                    "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjY2MTIucG5n&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1697101734",
-                    "gender": 1,
-                    "age": 28
-                }
-            },
-            "isExtended": true,
-            "isPinned": 0,
-            "canIPin": 0,
-            "notifyCnt": 0,
-            "autoNumber": "2023-2998",
-            "senderName": "ЭН ӨҮ ТИ ЭС",
-            "shiftInfo": [
-                {
-                    "userInfo": {
-                        "id": 2426612,
-                        "name": "Ч.Хонгор",
-                        "app": "Мэдээллийн Технологийн Хэлтсийн захирал",
-                        "path": {
-                            "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjY2MTIucG5n&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1697101734",
-                            "gender": "male",
-                            "age": 28,
-                            "overHint": "Ч.Хонгор"
-                        }
-                    },
-                    "receivedDate": "16 цаг",
-                    "receivedDateHint": "Танилцсан 23/12/07 : 17:14",
-                    "cardClose": true,
-                    "closedData": {
-                        "title": "Хаалтын мэдээлэл",
-                        "answeredType": "Бусад байдлаар",
-                        "closedNote": "Хүсэлтийн дагуу шалгаж шийдвэрлэв. Төрсөн өдрийн дост харуулах ажлын үед хийсэн баазын өөрчлөлтийн крон ажиллаагүй байсныг нөхөж засварласан.",
-                        "answeredDate": "2023/12/07",
-                        "answeredWeek": "Пүрэв (3 хоног хоцорсон)",
-                        "isLate": true
-                    }
-                }
-            ],
-            "shiftCnt": 4,
-            "isAnswer": true,
-            "pastDay": 4,
-            "restDay": -3,
-            "answerDate": "23/12/04",
-            "week": "Даваа гариг",
-            "sharedUser": [
-                {
-                    "id": 2426612,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjY2MTIucG5n&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1697101734",
-                    "gender": "male",
-                    "age": 28,
-                    "overHint": "Ч.Хонгор"
-                },
-                {
-                    "id": 2428569,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0Mjg1NjkuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1676442882",
-                    "gender": "female",
-                    "age": 31,
-                    "overHint": "Э.Хорлоо"
-                },
-                {
-                    "id": 20062886,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&0",
-                    "gender": "female",
-                    "age": 19,
-                    "overHint": "Б.Оюунжаргал"
-                },
-                {
-                    "id": 20074498,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1694428993",
-                    "gender": "male",
-                    "age": 30,
-                    "overHint": "Г.Мөнхболд"
-                }
-            ],
-            "sharedUserCnt": 4,
-            "seen": true,
-            "holder": {
-                "Id": 20074498,
-                "name": "Г.Мөнхболд",
-                "icon": {
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1694428993",
-                    "gender": "male",
-                    "age": 30
-                },
-                "workerType": 1
-            },
-            "myHID": 20074498,
-            "postId": 12794,
-            "itemId": "20794",
-            "pro": "docs",
-            "encPro": "ZGj9cw==",
-            "module": "complain",
-            "encModule": "Y29ctGxhaW4=",
-            "title": "А2- Төрсөн өдрийн пост дээр он сар гарч ирэхгүй байна. Шалгаж өгнө үү Онлайн\nтуслахын эрх дээр",
-            "description": {
-                "intro": "",
-                "more": ""
-            },
-            "authorInfo": {
-                "id": 20062886,
-                "system_name": "Б.Оюунжаргал",
-                "app_name": "Хэрэглэгчтэй харилцах менежер",
-                "com_id": 2,
-                "dep_id": 3383,
-                "workerType": 1,
-                "moderator": 0,
-                "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&0",
-                "gender": 0,
-                "age": 19
-            },
-            "easyDate": "4 өдөр",
-            "fullDate": "23/12/04 - 14:08",
-            "images": [],
-            "imageCnt": 0,
-            "files": [
-                {
-                    "name": "Screenshot_10.png",
-                    "type": "png",
-                    "dir": "https://storage.able.mn//main.php?g=ZG9b3mxvYWQ=&path=ZG9jcy8yMDA2Mj34NjEgMDE2NzAwNjYvU2NyZWVuc2hvdF8xMC5wbmc%3D&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY"
-                }
-            ],
-            "groupName": [
-                "Албан бичиг",
-                "Өргөдөл гомдол"
-            ],
-            "comments": [
-                {
-                    "pId": 0,
-                    "Id": 131675,
-                    "author": {
-                        "Id": 2426612,
-                        "name": "Ч.Хонгор",
-                        "icon": {
-                            "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjY2MTIucG5n&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1697101734",
-                            "gender": "male",
-                            "age": 28,
-                            "overHint": "Ч.Хонгор"
-                        }
-                    },
-                    "date": "Өчигдөр",
-                    "fullDate": "23/12/07 - 16:20",
-                    "comment": "Энийг над руу шилжүүл",
-                    "totalReplyCnt": 0,
-                    "plusCnt": 0,
-                    "hasMe": false
-                }
-            ],
-            "commentCnt": 1,
-            "commentRootCnt": 1,
-            "upReplyCnt": 0,
-            "plusCnt": 0,
-            "isModerator": 0
-        },
-        {
-            "actionBar": {
-                "title": "cardClose",
-                "date": "Өчигдөр",
-                "actionFullDate": "70/01/20 - 23:45",
-                "actionAuthorInfo": {
-                    "id": 2426612,
-                    "system_name": "Ч.Хонгор",
-                    "app_name": "Мэдээллийн Технологийн Хэлтсийн захирал",
-                    "com_id": 2,
-                    "dep_id": 3384,
-                    "workerType": 1,
-                    "moderator": 0,
-                    "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjY2MTIucG5n&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1697101734",
-                    "gender": 1,
-                    "age": 28
-                }
-            },
-            "isExtended": true,
-            "isPinned": 0,
-            "canIPin": 0,
-            "notifyCnt": 0,
-            "autoNumber": "2023-3005",
-            "senderName": "Гэр бүл, хүүхэд залуучуудын хөгжлийн газар",
-            "shiftInfo": [
-                {
-                    "userInfo": {
-                        "id": 2426612,
-                        "name": "Ч.Хонгор",
-                        "app": "Мэдээллийн Технологийн Хэлтсийн захирал",
-                        "path": {
-                            "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjY2MTIucG5n&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1697101734",
-                            "gender": "male",
-                            "age": 28,
-                            "overHint": "Ч.Хонгор"
-                        }
-                    },
-                    "receivedDate": "Өчигдөр",
-                    "receivedDateHint": "Танилцсан 23/12/07 : 16:21",
-                    "cardClose": true,
-                    "closedData": {
-                        "title": "Хаалтын мэдээлэл",
-                        "answeredType": "Бусад байдлаар",
-                        "closedNote": "Чат хост нь ХНХЯ руу зааж байсныг харилцагч байгууллагыг төлөөлж буй ажилтантай холбогдож тайлбарласан бөгөөд интранет руу зааж ажиллуулхаар болсон. Ингэснээр чат файл алдах болон бусад хэрэглэгчидтэй чатлахад хэвийн болсон.",
-                        "answeredDate": "2023/12/07",
-                        "answeredWeek": "Пүрэв (2 хоног хоцорсон)",
-                        "isLate": true
-                    }
-                }
-            ],
-            "shiftCnt": 4,
-            "isAnswer": true,
-            "pastDay": 3,
-            "restDay": -2,
-            "answerDate": "23/12/05",
-            "week": "Мягмар гариг",
-            "sharedUser": [
-                {
-                    "id": 2071077,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1685503162",
-                    "gender": "female",
-                    "age": 33,
-                    "overHint": "Б.Өлзийжаргал"
-                },
-                {
-                    "id": 2426612,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjY2MTIucG5n&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1697101734",
-                    "gender": "male",
-                    "age": 28,
-                    "overHint": "Ч.Хонгор"
-                },
-                {
-                    "id": 20062886,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&0",
-                    "gender": "female",
-                    "age": 19,
-                    "overHint": "Б.Оюунжаргал"
-                },
-                {
-                    "id": 20074498,
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1694428993",
-                    "gender": "male",
-                    "age": 30,
-                    "overHint": "Г.Мөнхболд"
-                }
-            ],
-            "sharedUserCnt": 4,
-            "seen": true,
-            "holder": {
-                "Id": 20074498,
-                "name": "Г.Мөнхболд",
-                "icon": {
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1694428993",
-                    "gender": "male",
-                    "age": 30
-                },
-                "workerType": 1
-            },
-            "myHID": 20074498,
-            "postId": 12811,
-            "itemId": "20846",
-            "pro": "docs",
-            "encPro": "ZGj9cw==",
-            "module": "complain",
-            "encModule": "Y29ctGxhaW4=",
-            "title": "А2- Чат явахгүй байна. Жишээ онлайн туслах руу чат бичихээр онлайн туслах дээр\nирэхгүй онлайн туслахаас чат явуулахаар чат нь нөгөө хүндээ очихгүй байна.\nШалгаж өгнө үү Г.Админ 89006100",
-            "description": {
-                "intro": "",
-                "more": ""
-            },
-            "authorInfo": {
-                "id": 20062886,
-                "system_name": "Б.Оюунжаргал",
-                "app_name": "Хэрэглэгчтэй харилцах менежер",
-                "com_id": 2,
-                "dep_id": 3383,
-                "workerType": 1,
-                "moderator": 0,
-                "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&0",
-                "gender": 0,
-                "age": 19
-            },
-            "easyDate": "3 өдөр",
-            "fullDate": "23/12/05 - 09:43",
-            "images": [],
-            "imageCnt": 0,
-            "files": [
-                {
-                    "name": "Screenshot_12.png",
-                    "type": "png",
-                    "dir": "https://storage.able.mn//main.php?g=ZG9b3mxvYWQ=&path=ZG9jcy8yMDA2Mj34NjEgMDE3NDA1NzAvU2NyZWVuc2hvdF8xMi5wbmc%3D&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY"
-                }
-            ],
-            "groupName": [
-                "Албан бичиг",
-                "Өргөдөл гомдол"
-            ],
-            "comments": [
-                {
-                    "pId": 0,
-                    "Id": 131665,
-                    "author": {
-                        "Id": 20062886,
-                        "name": "Б.Оюунжаргал",
-                        "icon": {
-                            "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&0",
-                            "gender": "female",
-                            "age": 19,
-                            "overHint": "Б.Оюунжаргал"
-                        }
-                    },
-                    "date": "Өчигдөр",
-                    "fullDate": "23/12/07 - 14:05",
-                    "comment": "<div>Утсаар хариу мэдэгдсэн. Хэвийн болсон байна</div>",
-                    "totalReplyCnt": 0,
-                    "plusCnt": 0,
-                    "hasMe": false
-                }
-            ],
-            "commentCnt": 1,
-            "commentRootCnt": 1,
-            "upReplyCnt": 0,
-            "plusCnt": 0,
-            "isModerator": 0
-        },
-        {
-            "actionBar": {
-                "title": "addPlus",
-                "date": "Өчигдөр",
-                "actionFullDate": "70/01/20 - 23:45",
-                "actionAuthorInfo": {
-                    "id": 2429139,
-                    "system_name": "Г.Оюунцацрал",
-                    "app_name": "Үйл ажиллагаа хариуцсан захирал",
-                    "com_id": 2,
-                    "dep_id": 3383,
-                    "workerType": 1,
-                    "moderator": 0,
-                    "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0MjkxMzkuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1658306684",
-                    "gender": 0,
-                    "age": 36
-                }
-            },
-            "isExtended": true,
-            "isPinned": 0,
-            "canIPin": 0,
-            "isCmtHidden": 0,
-            "notifyCnt": 0,
-            "seen": true,
-            "holder": {
-                "Id": 20074498,
-                "name": "Г.Мөнхболд",
-                "icon": {
-                    "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&1694428993",
-                    "gender": "male",
-                    "age": 30
-                },
-                "workerType": 1
-            },
-            "myHID": 20074498,
-            "postId": 12862,
-            "itemId": "4170",
-            "pro": "public",
-            "encPro": "cHiVbGlj",
-            "module": "news",
-            "encModule": "bm3Vcw==",
-            "title": "Заал",
-            "description": "-≤≤-div style=-»--»--≥≥--≤≤-font face=-»-Arial-»--≥≥--≤≤-span style=-»-font-size: 12px;-»--≥≥-2023/12/08 -ний өдөр 16 цагаас 18 цаг хүртэл 2 цаг -»-MJ Sport Center Mongolia-»- - ийн спорт заалыг авахаар болсон тул та бүхэн идэвхтэй оролцоно уу. Солих бэлтгэлийн хувцастайгаа ирээрэй.-≤≤-/span-≥≥--≤≤-/font-≥≥--≤≤-br-≥≥--≤≤-/div-≥≥-",
-            "authorInfo": {
-                "id": 20062886,
-                "system_name": "Б.Оюунжаргал",
-                "app_name": "Хэрэглэгчтэй харилцах менежер",
-                "com_id": 2,
-                "dep_id": 3383,
-                "workerType": 1,
-                "moderator": 0,
-                "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6bnVsbCwiYnJvd3NlclZlciI6bnVsbCwib3MiOm51bGwsInNlcnZlciI6ImFibGUiLCJvc1R5cGUiOm51bGwsImxvY2F0aW9uIjoiVWxhbiBCYXRvcixNTig0Ny45MDc3LDEwNi44ODMyKSIsImNsaWVudElQIjoiMjAyLjEzMS4yMzYuMTQiLCJjbGllbnRUeXBlIjoibW9iaWxlIiwic2NyZWVuV2lkdGgiOjAsInNjcmVlbkhlaWdodCI6MCwiYmxvY2tlZCI6IjAiLCJzZXJpYWxOdW0iOiJbb2JqZWN0IE9iamVjdF0iLCJpYXQiOjE2OTU4NzE0NzZ9.y1EJoD2smnwZ6oAo2SUb7qLY7nMoHpzRUpsvbr9eftY&0",
-                "gender": 0,
-                "age": 19
-            },
-            "easyDate": "Өчигдөр",
-            "fullDate": "23/12/07 - 15:54",
-            "images": [],
-            "imageCnt": 1,
-            "files": [],
-            "groupName": [
-                "Олон нийт",
-                "Зар мэдээ"
-            ],
-            "comments": null,
-            "commentCnt": 0,
-            "commentRootCnt": 0,
-            "upReplyCnt": 0,
-            "plusCnt": 2,
-            "isModerator": 0
-        }
-    ],
-    "theEnd": false,
-    "table": "notify_byuser_k",
-    "page": 1,
-    "indx": 3,
-    "isBackUp": false
+  "datas": [
+    {
+      "actionBar": {
+          "title": "addComment",
+          "date": "5 өдөр",
+          "actionFullDate": "70/01/20 - 23:54",
+          "actionAuthorInfo": {
+              "id": 2071077,
+              "system_name": "Б.Өлзийжаргал",
+              "app_name": "Төслийн менежер",
+              "com_id": 2,
+              "dep_id": 2058139,
+              "workerType": 1,
+              "moderator": 0,
+              "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+              "gender": 0,
+              "age": 33
+          }
+      },
+      "isExtended": true,
+      "isPinned": 0,
+      "canIPin": 0,
+      "notifyCnt": 2,
+      "autoNumber": "2023-2952",
+      "senderName": "УБТЗ ХНН Эрчим хүч, ус хангамжийн төв",
+      "shiftInfo": [
+          {
+              "userInfo": {
+                  "id": 20074498,
+                  "name": "Г.Мөнхболд",
+                  "app": "Ахлах програмист",
+                  "path": {
+                      "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1694428993",
+                      "gender": "male",
+                      "age": 30,
+                      "overHint": "Г.Мөнхболд"
+                  }
+              },
+              "receivedDate": "12/08 14:57",
+              "receivedDateHint": "Танилцсан 23/12/08 : 14:57",
+              "cardClose": true,
+              "closedData": {
+                  "title": "Хаалтын мэдээлэл",
+                  "answeredType": "Бусад байдлаар",
+                  "closedNote": "redis шинээр суулгаснаас алдаа гарсан тул кэйш цэвэрлэхээр болов.",
+                  "answeredDate": "2023/12/14",
+                  "answeredWeek": "Пүрэв (15 хоног хоцорсон)",
+                  "isLate": true
+              }
+          }
+      ],
+      "shiftCnt": 3,
+      "isAnswer": true,
+      "pastDay": 19,
+      "restDay": -18,
+      "answerDate": "23/11/29",
+      "week": "Лхагва гариг",
+      "sharedUser": [
+          {
+              "id": 2071077,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+              "gender": "female",
+              "age": 33,
+              "overHint": "Б.Өлзийжаргал"
+          },
+          {
+              "id": 20062886,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&0",
+              "gender": "female",
+              "age": 19,
+              "overHint": "Б.Оюунжаргал"
+          },
+          {
+              "id": 20074498,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1694428993",
+              "gender": "male",
+              "age": 30,
+              "overHint": "Г.Мөнхболд"
+          }
+      ],
+      "sharedUserCnt": 3,
+      "seen": true,
+      "holder": {
+          "Id": 20074498,
+          "name": "Г.Мөнхболд",
+          "icon": {
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1694428993",
+              "gender": "male",
+              "age": 30
+          },
+          "workerType": 1
+      },
+      "myHID": 20074498,
+      "postId": 12714,
+      "itemId": "20362",
+      "pro": "docs",
+      "encPro": "ZGj9cw==",
+      "module": "complain",
+      "encModule": "Y29ctGxhaW4=",
+      "title": "А2- Чат дээр хэрэглэгч сонгохоор өрөө нь нээгдчихсэн мөртлөө уншаад чат бичиж\nболохгүй байна. Шалгаж өгнө үү Д.Оюунчимэг 86114703",
+      "description": {
+          "intro": "",
+          "more": ""
+      },
+      "authorInfo": {
+          "id": 20062886,
+          "system_name": "Б.Оюунжаргал",
+          "app_name": "Хэрэглэгчтэй харилцах менежер",
+          "com_id": 2,
+          "dep_id": 3383,
+          "workerType": 1,
+          "moderator": 0,
+          "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&0",
+          "gender": 0,
+          "age": 19
+      },
+      "easyDate": "11/29 10:13",
+      "fullDate": "23/11/29 - 10:13",
+      "images": [],
+      "imageCnt": 0,
+      "files": [
+          {
+              "name": "Capture.JPG",
+              "type": "JPG",
+              "dir": "https://storage.able.mn//main.php?g=ZG9b3mxvYWQ=&path=ZG9jcy8yMDA2Njg4MjE3MDEyMjM5NDMvQ2FwdHVyZS5KUEc%3D&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE"
+          }
+      ],
+      "groupName": [
+          "Албан бичиг",
+          "Өргөдөл гомдол"
+      ],
+      "comments": [
+          {
+              "pId": 0,
+              "Id": 131763,
+              "author": {
+                  "Id": 2071077,
+                  "name": "Б.Өлзийжаргал",
+                  "icon": {
+                      "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+                      "gender": "female",
+                      "age": 33,
+                      "overHint": "Б.Өлзийжаргал"
+                  }
+              },
+              "date": "5 өдөр",
+              "fullDate": "23/12/13 - 15:16",
+              "comment": "Хэрэглэгчийн кэйштэй холбоотой алдаа байна. Кэйшээ яаж update хийх вэ?",
+              "totalReplyCnt": 0,
+              "plusCnt": 0,
+              "hasMe": false
+          },
+          {
+              "pId": 0,
+              "Id": 131748,
+              "author": {
+                  "Id": 2071077,
+                  "name": "Б.Өлзийжаргал",
+                  "icon": {
+                      "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+                      "gender": "female",
+                      "age": 33,
+                      "overHint": "Б.Өлзийжаргал"
+                  }
+              },
+              "date": "5 өдөр",
+              "fullDate": "23/12/13 - 12:13",
+              "comment": "Тэгшжаргал кэйш цэвэрлэж өгсөн.",
+              "totalReplyCnt": 0,
+              "plusCnt": 0,
+              "hasMe": false
+          },
+          {
+              "pId": 0,
+              "Id": 131679,
+              "author": {
+                  "Id": 2071077,
+                  "name": "Б.Өлзийжаргал",
+                  "icon": {
+                      "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+                      "gender": "female",
+                      "age": 33,
+                      "overHint": "Б.Өлзийжаргал"
+                  }
+              },
+              "date": "12/08 09:53",
+              "fullDate": "23/12/08 - 09:53",
+              "comment": "<div>Эхлээд шуурхай мессеж дээр дарж хэрэглэгчээ сонгож чатаа явуулаад дараа нь өрөөний түүхээсээ чатын цонх нээхэд хэвийн байгаа. </div><div>Маш яаралтай бол ийм байдлаар ашиглаж байгаарай гээд хэрэглэгч рүү хэлэх үү.</div>",
+              "totalReplyCnt": 0,
+              "plusCnt": 0,
+              "hasMe": false
+          }
+      ],
+      "commentCnt": 3,
+      "commentRootCnt": 3,
+      "upReplyCnt": 0,
+      "plusCnt": 0,
+      "isModerator": 0
+  },
+  {
+      "actionBar": {
+          "title": "addComment",
+          "date": "12/08 09:53",
+          "actionFullDate": "70/01/20 - 23:46",
+          "actionAuthorInfo": {
+              "id": 2071077,
+              "system_name": "Б.Өлзийжаргал",
+              "app_name": "Төслийн менежер",
+              "com_id": 2,
+              "dep_id": 2058139,
+              "workerType": 1,
+              "moderator": 0,
+              "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+              "gender": 0,
+              "age": 33
+          }
+      },
+      "isExtended": true,
+      "isPinned": 0,
+      "canIPin": 0,
+      "notifyCnt": 0,
+      "autoNumber": "2023-3002",
+      "senderName": "УБТЗ ХНН",
+      "shiftInfo": [
+          {
+              "userInfo": {
+                  "id": 20074498,
+                  "name": "Г.Мөнхболд",
+                  "app": "Ахлах програмист",
+                  "path": {
+                      "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1694428993",
+                      "gender": "male",
+                      "age": 30,
+                      "overHint": "Г.Мөнхболд"
+                  }
+              },
+              "receivedDate": "6 өдөр",
+              "receivedDateHint": "Танилцсан 23/12/12 : 10:29",
+              "cardClose": true,
+              "closedData": {
+                  "title": "Хаалтын мэдээлэл",
+                  "answeredType": "Бусад байдлаар",
+                  "closedNote": "Room үүсэхэд хэрэглэгчийн мэдээлэл олж чадахгүй алдаа байв. Масс мессеж явуулахад хэвийн ажиллаж байв. Кэйш цэвэрлэж хэвийн болов.",
+                  "answeredDate": "2023/12/14",
+                  "answeredWeek": "Пүрэв (9 хоног хоцорсон)",
+                  "isLate": true
+              }
+          }
+      ],
+      "shiftCnt": 3,
+      "isAnswer": true,
+      "pastDay": 14,
+      "restDay": -12,
+      "answerDate": "23/12/05",
+      "week": "Мягмар гариг",
+      "sharedUser": [
+          {
+              "id": 2071077,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+              "gender": "female",
+              "age": 33,
+              "overHint": "Б.Өлзийжаргал"
+          },
+          {
+              "id": 20062886,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&0",
+              "gender": "female",
+              "age": 19,
+              "overHint": "Б.Оюунжаргал"
+          },
+          {
+              "id": 20074498,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1694428993",
+              "gender": "male",
+              "age": 30,
+              "overHint": "Г.Мөнхболд"
+          }
+      ],
+      "sharedUserCnt": 3,
+      "seen": true,
+      "holder": {
+          "Id": 20074498,
+          "name": "Г.Мөнхболд",
+          "icon": {
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1694428993",
+              "gender": "male",
+              "age": 30
+          },
+          "workerType": 1
+      },
+      "myHID": 20074498,
+      "postId": 12801,
+      "itemId": "20814",
+      "pro": "docs",
+      "encPro": "ZGj9cw==",
+      "module": "complain",
+      "encModule": "Y29ctGxhaW4=",
+      "title": "А2- Чат дээр хэрэглэгч сонгохоор өрөө нь нээгдчихсэн мөртлөө уншаад чат бичиж\nболохгүй байна. Шалгаж өгнө үү Ц.Ариунаа 99110810",
+      "description": {
+          "intro": "",
+          "more": ""
+      },
+      "authorInfo": {
+          "id": 20062886,
+          "system_name": "Б.Оюунжаргал",
+          "app_name": "Хэрэглэгчтэй харилцах менежер",
+          "com_id": 2,
+          "dep_id": 3383,
+          "workerType": 1,
+          "moderator": 0,
+          "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&0",
+          "gender": 0,
+          "age": 19
+      },
+      "easyDate": "12/04 17:08",
+      "fullDate": "23/12/04 - 17:08",
+      "images": [],
+      "imageCnt": 0,
+      "files": [],
+      "groupName": [
+          "Албан бичиг",
+          "Өргөдөл гомдол"
+      ],
+      "comments": [
+          {
+              "pId": 0,
+              "Id": 131680,
+              "author": {
+                  "Id": 2071077,
+                  "name": "Б.Өлзийжаргал",
+                  "icon": {
+                      "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+                      "gender": "female",
+                      "age": 33,
+                      "overHint": "Б.Өлзийжаргал"
+                  }
+              },
+              "date": "12/08 09:54",
+              "fullDate": "23/12/08 - 09:54",
+              "comment": "<div><div>Эхлээд шуурхай мессеж дээр дарж хэрэглэгчээ сонгож чатаа явуулаад дараа нь өрөөний түүхээсээ чатын цонх нээхэд хэвийн байгаа. </div><div>Маш яаралтай бол ийм байдлаар ашиглаж байгаарай гээд хэрэглэгч рүү хэлэх үү.</div></div>",
+              "totalReplyCnt": 0,
+              "plusCnt": 0,
+              "hasMe": false
+          }
+      ],
+      "commentCnt": 1,
+      "commentRootCnt": 1,
+      "upReplyCnt": 0,
+      "plusCnt": 0,
+      "isModerator": 0
+  },
+  {
+      "actionBar": {
+          "title": "addPlus",
+          "date": "5 өдөр",
+          "actionFullDate": "70/01/20 - 23:53",
+          "actionAuthorInfo": {
+              "id": 2080919,
+              "system_name": "Д.Хишигжаргал",
+              "app_name": "Төслийн менежментийн хэлтсийн захирал",
+              "com_id": 2,
+              "dep_id": 2058139,
+              "workerType": 1,
+              "moderator": 0,
+              "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwODA5MTkuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1666580788",
+              "gender": 0,
+              "age": 3
+          }
+      },
+      "isExtended": true,
+      "isPinned": 0,
+      "canIPin": 0,
+      "notifyCnt": 0,
+      "discussionInfo": [
+          {
+              "id": 3222,
+              "author": 2071077,
+              "name": "Ээлжийн цагийн хуваарь дээр өмнөх сар дуусахаас өмнө дараа сарын ээлжийн хуваарийг давхар оруулдаг - Шийдэл хэлэлцэх",
+              "date": "12/13 09:40",
+              "file": []
+          }
+      ],
+      "discussionCnt": 1,
+      "canAddAgenda": 1,
+      "agreeUserInfo": {
+          "id": 2060779,
+          "system_name": "Б.Даваадорж",
+          "app_name": "Гүйцэтгэх захирал",
+          "com_id": 2,
+          "dep_id": 2,
+          "workerType": 1,
+          "moderator": 1,
+          "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNjA3NzkuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1655724514",
+          "gender": 1,
+          "age": 36
+      },
+      "position": "59",
+      "startDate": "2023/12/13 - 10:00",
+      "endDate": "2023/12/13 - 11:00",
+      "videoMeeting": "",
+      "sharedUser": [
+          {
+              "id": 2060779,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNjA3NzkuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1655724514",
+              "gender": "male",
+              "age": 36,
+              "overHint": "Б.Даваадорж"
+          },
+          {
+              "id": 2071077,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwNzEwNzcuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1685503162",
+              "gender": "female",
+              "age": 33,
+              "overHint": "Б.Өлзийжаргал"
+          },
+          {
+              "id": 2080919,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTIwODA5MTkuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1666580788",
+              "gender": "female",
+              "age": 3,
+              "overHint": "Д.Хишигжаргал"
+          },
+          {
+              "id": 2081130,
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=aHVtYf5WcmVzb3VyY2Uv&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&0",
+              "gender": "female",
+              "age": 29,
+              "overHint": "Л.Даваарагчаа"
+          }
+      ],
+      "sharedUserCnt": 10,
+      "seen": true,
+      "holder": {
+          "Id": 20074498,
+          "name": "Г.Мөнхболд",
+          "icon": {
+              "path": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckljv24bbTIwMDc0NDk4LmpwZw==&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1694428993",
+              "gender": "male",
+              "age": 30
+          },
+          "workerType": 1
+      },
+      "myHID": 20074498,
+      "postId": 12937,
+      "itemId": "2586",
+      "pro": "meeting",
+      "encPro": "bWVdlGluZw==",
+      "module": "meeting",
+      "encModule": "bWVdlGluZw==",
+      "title": "Шийдлийн хурал",
+      "description": "",
+      "authorInfo": {
+          "id": 2428569,
+          "system_name": "Э.Хорлоо",
+          "app_name": "Төслийн менежер",
+          "com_id": 2,
+          "dep_id": 2058139,
+          "workerType": 1,
+          "moderator": 0,
+          "user_icon": "https://storage.able.mn/main.php?g=bG9ZhEltYWdl&path=dXNlckl4b2jvbTI0Mjg1NjkuanBn&cloudDir=1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJteUhJRCI6MjAwNzQ0OTgsIm15Q29tSWQiOjIsImtleSI6ImFibGVzb2Z0IiwiYnJvd3NlciI6IkNocm9tZSIsImJyb3dzZXJWZXIiOiIxMjAuMC4wLjAiLCJvcyI6Ik1hYyBPUyBYIiwic2VydmVyIjoiYWJsZSIsIm9zVHlwZSI6bnVsbCwibG9jYXRpb24iOiJVbGFuIEJhdG9yLE1OKDQ3LjkwNzcsMTA2Ljg4MzIpIiwiY2xpZW50SVAiOiIyMDIuMTMxLjIzNi4xNCIsImNsaWVudFR5cGUiOiJ3ZWIiLCJzY3JlZW5XaWR0aCI6MTkyMCwic2NyZWVuSGVpZ2h0IjoxMDgwLCJibG9ja2VkIjoiMCIsImlhdCI6MTcwMjg4MDY5Nn0.GL6VOBuCLy8Ijih9QAXBcoP__o00twubTruTKqgATWE&1676442882",
+          "gender": 0,
+          "age": 31
+      },
+      "easyDate": "5 өдөр",
+      "fullDate": "2023/12/13 - 09:37",
+      "images": [],
+      "imageCnt": 0,
+      "files": [],
+      "groupName": [
+          "Хурал"
+      ],
+      "comments": null,
+      "commentCnt": 0,
+      "commentRootCnt": 0,
+      "upReplyCnt": 0,
+      "plusCnt": 1,
+      "isModerator": 0
+  }
+  ],
+  "theEnd": false,
+  "table": "notify_byuser_k",
+  "page": 7,
+  "indx": 9,
+  "isBackUp": false
 }
